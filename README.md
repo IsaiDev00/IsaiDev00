@@ -88,14 +88,6 @@
 
 ###
 
-<h2 align="left">🖇️Professional Highlights</h2>
-
-###
-
-<p align="left">OrB Z<br>- Led the development of an AI-powered video analysis platform with ultra-low latency, scalable cloud infrastructure, secure payments, and modular APIs.<br><br>ConnectCare<br>- Built a hospital management app with real-time communication, IoT biometric monitoring, predictive analytics, and full data encryption.<br><br>Petwalks<br>- Developed a pet care platform with real-time GPS tracking, instant chat, secure Stripe payments, and role-based dashboards.</p>
-
-###
-
 <h2 align="left">💬 Feel free to connect!</h2>
 
 ###
